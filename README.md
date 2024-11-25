@@ -3,5 +3,8 @@
 - Final accuracy score on the hidden test: 0.92
 - Task: Develop a classifier to accurately differentiate between 8 distinct types of blood cells.
 
-
-
+Contributions:
+Simone Calzolaro,
+Sara Massarelli,
+Tommaso Galimberti,
+Gabriele Clara Di Gioacchino.
